@@ -1,0 +1,36 @@
+ville,display_name,lat,lon,importance
+Mont Saint Michel,"Mont Saint-Michel, Régina Village, Saint-Mansuy, Toul, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54200, France",48.6906803,5.8826485,0.06673340886549171
+St Malo,"Saint-Malo, Ille-et-Vilaine, Bretagne, France métropolitaine, 35400, France",48.649518,-2.0260409,0.6170333686756257
+Bayeux,"Bayeux, Calvados, Normandie, France métropolitaine, 14400, France",49.2764624,-0.7024738,0.604294926580297
+Le Havre,"Le Havre, Seine-Maritime, Normandie, France métropolitaine, France",49.4938975,0.1079732,0.6680693274998627
+Rouen,"Rouen, Seine-Maritime, Normandie, France métropolitaine, France",49.4404591,1.0939658,0.6847400787060492
+Paris,"Paris, Île-de-France, France métropolitaine, France",48.8534951,2.3483915,0.8845663630228834
+Amiens,"Amiens, Somme, Hauts-de-France, France métropolitaine, France",49.8941708,2.2956951,0.6648492984548688
+Lille,"Lille, Nord, Hauts-de-France, France métropolitaine, France",50.6365654,3.0635282,0.6961232890188663
+Strasbourg,"Strasbourg, Bas-Rhin, Grand Est, France métropolitaine, France",48.584614,7.7507127,0.7275493034670005
+Chateau du Haut Koenigsbourg,"Château du Haut-Kœnigsbourg, Orschwiller, Sélestat-Erstein, Bas-Rhin, Grand Est, France métropolitaine, 67600, France",48.2495226,7.3454923,0.10672799038681618
+Colmar,"Colmar, Colmar-Ribeauvillé, Haut-Rhin, Grand Est, France métropolitaine, 68000, France",48.0777517,7.3579641,0.6229360131840985
+Eguisheim,"Eguisheim, Colmar-Ribeauvillé, Haut-Rhin, Grand Est, France métropolitaine, 68420, France",48.0447968,7.3079618,0.5613814763569166
+Besancon,"Besançon, Doubs, Bourgogne-Franche-Comté, France métropolitaine, 25000, France",47.2380222,6.0243622,0.6561988873354755
+Dijon,"Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21000, France",47.3215806,5.0414701,0.6728373050023232
+Annecy,"Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France",45.8992348,6.1288847,0.6203828713594545
+Grenoble,"Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, France",45.1875602,5.7357819,0.6845788090893128
+Lyon,"Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France",45.7578137,4.8320114,0.7385820546397593
+Moustiers-Sainte-Marie,"Moustiers-Sainte-Marie, Digne-les-Bains, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04360, France",43.8460089,6.2217604,0.5302889485027363
+Bormes les Mimosas,"Bormes-les-Mimosas, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83230, France",43.1506968,6.3419285,0.5074394725175112
+Cassis,"Cassis, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13260, France",43.2140359,5.5396318,0.5111791868736898
+Marseille,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, France",43.2961743,5.3699525,0.7310634603535818
+Aix en Provence,"Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, France",43.5298424,5.4474738,0.6379171574925104
+Avignon,"Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, France",43.9492493,4.8059012,0.6651388421765945
+Uzes,"Uzès, Nîmes, Gard, Occitanie, France métropolitaine, 30700, France",44.0121279,4.4196718,0.5687024900861805
+Nimes,"Nîmes, Gard, Occitanie, France métropolitaine, France",43.8374249,4.3600687,0.6452661530490741
+Aigues Mortes,"Aigues-Mortes, Nîmes, Gard, Occitanie, France métropolitaine, 30220, France",43.5661521,4.19154,0.5640009073217973
+Saintes Maries de la mer,"Saintes-Maries-de-la-Mer, Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13460, France",43.4515922,4.4277202,0.5069190731331547
+Collioure,"Collioure, Céret, Pyrénées-Orientales, Occitanie, France métropolitaine, 66190, France",42.52505,3.0831554,0.5434349459372535
+Carcassonne,"Carcassonne, Aude, Occitanie, France métropolitaine, 11000, France",43.2130358,2.3491069,0.625873645072692
+Ariege,"Tarascon-sur-Ariège, Foix, Ariège, Occitanie, France métropolitaine, 09400, France",42.8458016,1.6067586,0.5457652330706445
+Toulouse,"Toulouse, Haute-Garonne, Occitanie, France métropolitaine, France",43.6044622,1.4442469,0.7190266244873726
+Montauban,"Montauban, Tarn-et-Garonne, Occitanie, France métropolitaine, 82000, France",44.0175835,1.3549991,0.5942314728846864
+Biarritz,"Biarritz, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64200, France",43.4832523,-1.5592776,0.6161703738668862
+Bayonne,"Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64100, France",43.4945144,-1.4736657,0.643068224446812
+La Rochelle,"La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000, France",46.159732,-1.1515951,0.6409735277294301
